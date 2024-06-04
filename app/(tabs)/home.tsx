@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const TabLatout = () => {
+const Home = () => {
   return (
     <View>
-      <Text>TabLatout</Text>
+      <Text>Home</Text>
     </View>
   );
 };
 
-export default TabLatout;
+export default Home;

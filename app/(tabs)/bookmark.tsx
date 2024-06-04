@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const TabLatout = () => {
+const Bookmark = () => {
   return (
     <View>
-      <Text>TabLatout</Text>
+      <Text>Bookmark</Text>
     </View>
   );
 };
 
-export default TabLatout;
+export default Bookmark;

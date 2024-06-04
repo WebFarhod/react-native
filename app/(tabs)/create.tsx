@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const TabLatout = () => {
+const Create = () => {
   return (
     <View>
-      <Text>TabLatout</Text>
+      <Text>Create</Text>
     </View>
   );
 };
 
-export default TabLatout;
+export default Create;

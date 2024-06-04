@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const TabLatout = () => {
+const AuthLayout = () => {
   return (
     <View>
-      <Text>TabLatout</Text>
+      <Text>AuthLayout</Text>
     </View>
   );
 };
 
-export default TabLatout;
+export default AuthLayout;
